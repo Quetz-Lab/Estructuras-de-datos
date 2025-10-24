@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Estudiante\\source\\repos\\Estructuras de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C15AD605-A5D6-4106-A842-DCB53F52EF9F}|Estructuras de datos\\Estructuras de datos.vcxproj|C:\\Users\\Estudiante\\source\\repos\\Estructuras de datos\\Estructuras de datos\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C15AD605-A5D6-4106-A842-DCB53F52EF9F}|Estructuras de datos\\Estructuras de datos.vcxproj|solutionrelative:Estructuras de datos\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\source\\repos\\Estructuras de datos\\Estructuras de datos\\main.cpp",
+              "RelativeDocumentMoniker": "Estructuras de datos\\main.cpp",
+              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Estructuras de datos\\Estructuras de datos\\main.cpp",
+              "RelativeToolTip": "Estructuras de datos\\main.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T19:17:01.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
